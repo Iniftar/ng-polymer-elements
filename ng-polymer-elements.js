@@ -210,7 +210,7 @@
                   }
                 }
 
-                // Observe changes to the array/object, and copy its content
+                // Observe changes to the array/object and copy its content
                 // to the directive attribute.
                 var attachObserver = function() {
                   if(!readOnly) {
