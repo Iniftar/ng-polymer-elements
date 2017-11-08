@@ -1,6 +1,7 @@
-**Looking for maintainers, please contact me if you are interested.**
+# ng-polymer-elements
 
-# ng-polymer-elements [![Maintainers Wanted](https://img.shields.io/badge/maintainers-wanted-red.svg)](https://github.com/pickhardt/maintainers-wanted)
+* [Documentation and examples](https://gabiaxel.github.io/ng-polymer-elements/)
 
+Extendible AngularJS two-way binding support for Polymer elements and web components.
 
-[Documentation and examples](https://gabiaxel.github.io/ng-polymer-elements/)
+Interested in contributing? Please contact @GabiAxel through GitHub Issues.
