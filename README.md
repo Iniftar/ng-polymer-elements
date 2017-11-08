@@ -4,4 +4,4 @@
 
 Extendible AngularJS two-way binding support for Polymer 1 elements and web components.
 
-Interested in contributing? Please contact @GabiAxel through GitHub Issues.
+Interested in contributing? Please submit an GitHub Issue or Pull Request with further details.
